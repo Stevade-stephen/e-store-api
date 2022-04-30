@@ -7,6 +7,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>order-service</module>
+        <module>user-service</module>
+        <module>payment-service</module>
     </modules>
     <name>event-driven-microservice</name>
     <description>event-driven-microservice</description>
