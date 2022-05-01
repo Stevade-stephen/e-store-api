@@ -9,6 +9,8 @@
         <module>order-service</module>
         <module>user-service</module>
         <module>payment-service</module>
+        <module>shipment-service</module>
+        <module>common-service</module>
     </modules>
     <name>event-driven-microservice</name>
     <description>event-driven-microservice</description>
